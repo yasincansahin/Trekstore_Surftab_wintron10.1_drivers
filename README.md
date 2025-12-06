@@ -56,16 +56,29 @@ This repository exists to ensure these important drivers remain accessible to ev
 
 ---
 
-📥 How to Download From This Repository
+📥 How to Download From This Repository (Beginner-Friendly Guide)
 
-1. Scroll down to the Assets section of the current Release.
-
-
-2. Download the file:
-Trekstore_Surftab_wintron10.1_drivers.zip
+1. Scroll up to the top of this page.
 
 
-3. Extract the ZIP file to your computer.
+2. Find the Releases section on the right side (or at the bottom if you’re on mobile).
+
+
+3. Click the latest release to open it.
+
+
+4. In the Assets area, click on the file named:
+wintron_10.1_treiber.zip (≈148 MB)
+
+
+5. The download will start automatically.
+
+
+6. Once the download is finished, extract/unzip the file on your computer.
+
+
+
+That’s it — you now have the full driver package!
 
 
 
