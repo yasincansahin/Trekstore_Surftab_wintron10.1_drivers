@@ -1,6 +1,6 @@
 # Trekstor SurfTab Wintron 10.1 Driver – Complete Driver Pack (Windows 8.1 / Windows 10)
 
-This repository contains a complete and verified driver set for the Trekstor SurfTab Wintron 10.1 (ST10432-3) tablet.
+This repository contains a driver set for the Trekstor SurfTab Wintron 10.1 (ST10432-3) tablet.
 Since Trekstor’s official website is no longer available, these drivers are preserved here to help users keep their devices functional.
 
 
@@ -48,7 +48,7 @@ Audio device not detected
 
 These drivers were originally shared in 2015 by a user named “kalle”, who obtained them directly from Trekstor customer support before the Trekstor website shut down.
 
-The original archive is still available here (if the links are active):
+The original archive is still available here (you can also download drivers from there if the download links are still active):
 🔗 https://kandru.eu/trekstor-surftab-wintron-10-1-volks-tablet-von-bild-ohne-windows-8-1-bing/index.htm
 
 This repository exists to ensure these important drivers remain accessible to everyone.
@@ -81,7 +81,6 @@ wintron_10.1_treiber.zip (≈148 MB)
 That’s it — you now have the full driver package!
 
 
-
 ---
 
 🔧 How to Install the Drivers
@@ -91,7 +90,6 @@ That’s it — you now have the full driver package!
 2. then install the setup in the folder
   
   
-that's all
 
 
 After installation, the touchscreen and audio system should work properly. If it doesn't work, you can install the setups you need in the other folder.
