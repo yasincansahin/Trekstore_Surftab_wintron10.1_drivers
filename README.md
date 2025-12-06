@@ -76,6 +76,9 @@ wintron_10.1_treiber.zip (≈148 MB)
 
 6. Once the download is finished, extract/unzip the file on your computer.
 
+## 📥 Download Drivers
+👉 Download the full driver package from the **Releases** section:  
+🔗 [Trekstore_Surftab_wintron10.1_drivers.zip](../releases/latest)
 
 
 That’s it — you now have the full driver package!
